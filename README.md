@@ -1,1 +1,1 @@
-# Emobilis Python programming
+# Python programming for web
